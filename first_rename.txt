@@ -1,0 +1,6 @@
+this is version one of my project
+i want to go into commit
+changes by niki
+changes hello
+changed
+this is from master
